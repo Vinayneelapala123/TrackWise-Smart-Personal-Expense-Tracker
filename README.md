@@ -26,23 +26,6 @@ TrackWise is a full stack web application designed to help users effortlessly ma
 - MongoDB  
 - Mongoose  
 
-## 📁 Folder Structure
-expense-tracker/
-├── backend/
-│ ├── server.js
-│ ├── models/
-│ │ └── Expense.js
-│ └── routes/
-│ └── expenses.js
-├── frontend/
-│ ├── index.html
-│ ├── script.js
-│ └── style.css
-├── .env
-├── package.json
-└── README.md
-
-text
 
 ## ⚙️ Setup Instructions
 
